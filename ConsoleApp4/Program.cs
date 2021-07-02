@@ -313,37 +313,37 @@ namespace ExceptionTask2
 
             User user1 = new User
             {
-                Name = "Vaqif",
-                Surname = "Ismayilzade",
+                Name = "Azer",
+                Surname = "Ismayilov",
                 CreditCard = CreditCard1,
             };
 
 
             User user2 = new User
             {
-                Name = "Rafael",
-                Surname = "Xelilzade",
+                Name = "Tofiq",
+                Surname = "Musayev",
                 CreditCard = CreditCard2,
             };
 
             User user3 = new User
             {
                 Name = "Kenan",
-                Surname = "Agayev",
+                Surname = "Rustamov",
                 CreditCard = CreditCard3,
             };
 
             User user4 = new User
             {
-                Name = "Ismayil",
-                Surname = "Eliyev",
+                Name = "Memmed",
+                Surname = "Memmedov",
                 CreditCard = CreditCard4,
             };
 
             User user5 = new User
             {
-                Name = "Yasin",
-                Surname = "Quliyev",
+                Name = "Elsefa",
+                Surname = "Elsefayev",
                 CreditCard = CreditCard5,
             };
 
